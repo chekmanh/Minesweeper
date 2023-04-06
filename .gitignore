@@ -1,0 +1,52 @@
+# ---> C++
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+tags
+build/*
+.idea
+resources/fields
+lib/TGUI-0.8.7/.appveyor.yml lib/TGUI-0.8.7/changelog.txt lib/TGUI-0.8.7/cmake lib/TGUI-0.8.7/CMakeCache.txt lib/TGUI-0.8.7/CMakeFiles lib/TGUI-0.8.7/cmake_install.cmake lib/TGUI-0.8.7/CMakeLists.txt lib/TGUI-0.8.7/.codecov.yml lib/TGUI-0.8.7/doc lib/TGUI-0.8.7/examples lib/TGUI-0.8.7/.gitignore lib/TGUI-0.8.7/gui-builder lib/TGUI-0.8.7/include lib/TGUI-0.8.7/lib lib/TGUI-0.8.7/license.txt lib/TGUI-0.8.7/Makefile lib/TGUI-0.8.7/pkgconfig lib/TGUI-0.8.7/README.md lib/TGUI-0.8.7/src lib/TGUI-0.8.7/tests lib/TGUI-0.8.7/TGUIConfig.cmake lib/TGUI-0.8.7/TGUIConfigVersion.cmake lib/TGUI-0.8.7/TGUISharedTargets.cmake lib/TGUI-0.8.7/themes lib/TGUI-0.8.7/.travis.yml
+lib/TGUI-0.8.7/*
+lib/SFML-2.5.1/changelog.md lib/SFML-2.5.1/cmake lib/SFML-2.5.1/CMakeCache.txt lib/SFML-2.5.1/CMakeFiles lib/SFML-2.5.1/cmake_install.cmake lib/SFML-2.5.1/CMakeLists.txt lib/SFML-2.5.1/CONTRIBUTING.md lib/SFML-2.5.1/doc lib/SFML-2.5.1/.editorconfig lib/SFML-2.5.1/examples lib/SFML-2.5.1/extlibs lib/SFML-2.5.1/.gitattributes lib/SFML-2.5.1/.github lib/SFML-2.5.1/include lib/SFML-2.5.1/lib lib/SFML-2.5.1/license.md lib/SFML-2.5.1/Makefile lib/SFML-2.5.1/readme.md lib/SFML-2.5.1/SFMLConfig.cmake lib/SFML-2.5.1/SFMLConfigDependencies.cmake lib/SFML-2.5.1/SFMLConfigVersion.cmake lib/SFML-2.5.1/SFMLSharedTargets.cmake lib/SFML-2.5.1/src lib/SFML-2.5.1/tools
+lib/SFML-2.5.1/changelog.md lib/SFML-2.5.1/cmake lib/SFML-2.5.1/CMakeCache.txt lib/SFML-2.5.1/CMakeFiles lib/SFML-2.5.1/cmake_install.cmake lib/SFML-2.5.1/CMakeLists.txt lib/SFML-2.5.1/CONTRIBUTING.md lib/SFML-2.5.1/doc lib/SFML-2.5.1/.editorconfig lib/SFML-2.5.1/examples lib/SFML-2.5.1/extlibs lib/SFML-2.5.1/.gitattributes lib/SFML-2.5.1/.github lib/SFML-2.5.1/include lib/SFML-2.5.1/lib lib/SFML-2.5.1/license.md lib/SFML-2.5.1/Makefile lib/SFML-2.5.1/.placeholder lib/SFML-2.5.1/readme.md lib/SFML-2.5.1/SFMLConfig.cmake lib/SFML-2.5.1/SFMLConfigDependencies.cmake lib/SFML-2.5.1/SFMLConfigVersion.cmake lib/SFML-2.5.1/SFMLSharedTargets.cmake lib/SFML-2.5.1/src lib/SFML-2.5.1/tools
+lib/SFML-2.5.1/*
+
+
+*.aux
+*.log
+*.nav
+*.pdf
+*.snm
+*.toc
+*old
+*old*
+cmake-build-debug
+*.bbl
+*.blg
